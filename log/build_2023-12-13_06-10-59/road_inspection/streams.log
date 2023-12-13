@@ -1,0 +1,26 @@
+[0.779s] Invoking command in '/home/kasm-user/ros2_ws/src/build/road_inspection': PS1=default:\w$ PYTHONPATH=/home/kasm-user/ros2_ws/src/build/road_inspection/prefix_override:/home/kasm-user/ros2_ws/src/install/road_inspection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/kasm-user/ros2_ws/src/build/road_inspection/build --no-deps install_data
+[1.087s] running develop
+[1.087s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.087s]   warnings.warn(
+[1.088s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.088s]   warnings.warn(
+[1.262s] running egg_info
+[1.262s] writing road_inspection.egg-info/PKG-INFO
+[1.263s] writing dependency_links to road_inspection.egg-info/dependency_links.txt
+[1.263s] writing entry points to road_inspection.egg-info/entry_points.txt
+[1.264s] writing requirements to road_inspection.egg-info/requires.txt
+[1.264s] writing top-level names to road_inspection.egg-info/top_level.txt
+[1.265s] reading manifest file 'road_inspection.egg-info/SOURCES.txt'
+[1.266s] writing manifest file 'road_inspection.egg-info/SOURCES.txt'
+[1.268s] running build_ext
+[1.268s] Creating /home/kasm-user/ros2_ws/src/install/road_inspection/lib/python3.10/site-packages/road-inspection.egg-link (link to .)
+[1.269s] Installing image_projection1 script to /home/kasm-user/ros2_ws/src/install/road_inspection/lib/road_inspection
+[1.269s] Installing mover script to /home/kasm-user/ros2_ws/src/install/road_inspection/lib/road_inspection
+[1.270s] Installing mover_with_pose script to /home/kasm-user/ros2_ws/src/install/road_inspection/lib/road_inspection
+[1.270s] Installing opencv_test script to /home/kasm-user/ros2_ws/src/install/road_inspection/lib/road_inspection
+[1.270s] Installing tf_listener script to /home/kasm-user/ros2_ws/src/install/road_inspection/lib/road_inspection
+[1.270s] 
+[1.270s] Installed /home/kasm-user/ros2_ws/src/build/road_inspection
+[1.271s] running install_data
+[1.271s] copying package.xml -> /home/kasm-user/ros2_ws/src/install/road_inspection/share/road_inspection
+[1.309s] Invoked command in '/home/kasm-user/ros2_ws/src/build/road_inspection' returned '0': PS1=default:\w$ PYTHONPATH=/home/kasm-user/ros2_ws/src/build/road_inspection/prefix_override:/home/kasm-user/ros2_ws/src/install/road_inspection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/kasm-user/ros2_ws/src/build/road_inspection/build --no-deps install_data
